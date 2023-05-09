@@ -1,0 +1,17 @@
+.body{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+    padding: auto;
+    border-left: 0ch;
+    border-radius: 10px;
+}
+
+.class{
+    text-align: center;
+}
+
+.bg-dark{
+    background-color: #75767b;
+}
+
